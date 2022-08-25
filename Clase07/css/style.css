@@ -1,0 +1,42 @@
+h1{
+    color:blue;
+}
+
+#textoH1{
+    color:red;
+}
+
+.textosH1{
+    color:green;
+    text-decoration: overline;
+}
+
+body {
+    background-color: lightblue;
+    background-attachment: fixed;
+    background-image: url(../img/1600w-tcR-iGQLd3I.webp);
+    background-size: 100% 100%;
+
+ }
+
+ .claseP {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: medium;
+    word-spacing: 40px;
+    text-transform: capitalize;
+    color: rgb(17, 33, 120);
+    
+ }
+
+ p{
+    border-style: double;
+    border-top-style: dotted;
+    border-left-color: brown;
+ }
+
+ #boton{
+    font-family: none;
+    font-size: 40px;
+    color:yellowgreen
+
+ }
