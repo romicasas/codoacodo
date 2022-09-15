@@ -1,0 +1,15 @@
+#centrado
+{
+max-width: 500px;
+margin:auto
+}
+
+fieldset{
+    background-color: lightgrey;
+    max-width: 500px;
+}
+
+h1{
+text-align: center;
+}
+

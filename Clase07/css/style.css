@@ -37,6 +37,7 @@ body {
  #boton{
     font-family: none;
     font-size: 40px;
-    color:yellowgreen
+    color:yellowgreen;
+    display: inline-block;
 
  }

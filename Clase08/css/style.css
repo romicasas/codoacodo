@@ -1,0 +1,73 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+
+div
+{
+    background-color: red;
+    width:100%;
+    height: 200px;
+
+}
+
+#uno
+{
+    background-color: blueviolet;
+
+}
+
+#dos
+{
+    background-color: green;
+}
+
+#tres
+{
+    background-color: lightcoral;
+}
+
+section ~ p /*todas las p dentro de un section o child de un section*/
+{
+    color:red;
+}
+
+div p   /*todas las p dentro de un div o child de un div*/ 
+{
+  /*  color:yellow; */
+}
+
+#ClaseHover
+{
+    width: 80%;
+    height: 100 px;
+    background-color: red;
+}
+
+#ClaseHover:hover
+{
+    background-color: lightcoral;
+}
+
+p:first-child
+{
+    color: green;
+}
+
+a
+{
+    text-decoration: none;
+
+}
+
+a:hover 
+{
+color:red;
+}
+
+a:visited
+{
+    color:green;
+}
