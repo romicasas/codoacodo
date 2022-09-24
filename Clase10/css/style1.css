@@ -1,0 +1,10 @@
+div
+{
+    background-color: red;
+    width:300px ;
+    height: 300px;
+    border: 15px  solid green;
+    padding: 50px; /*es la cantidad de espacio desde el contenido (texto por ejemplo) hasta el borde de la caja*/
+    margin:20px; /*es la medida que separa de los otros elementos*/
+
+}

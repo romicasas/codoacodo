@@ -1,0 +1,61 @@
+* 
+{
+    margin: 0;
+    padding: 0;
+}
+
+header
+{
+    width:80% ;
+    height: 140px;
+    background-color: lightgrey;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 5px;
+    box-shadow: 2px 5px 5px grey;
+}
+
+header h1 
+{
+    font-family: 'Roboto Condensed', sans-serif;
+font-size: 20px;
+color: darkslategrey;
+text-align: center;
+}
+
+#footer
+{
+    width: 80%;
+    height: 100px;
+    background-color: lightcoral;
+    margin: auto;
+    margin-top: 15px;
+    
+}
+
+.texto_footer
+{
+    background-color: aquamarine;
+    border-radius: 4px;
+}
+
+main
+{
+font-size: 24px;
+
+}
+
+main p
+{
+    font-size: 1em;
+}
+
+section p
+{
+    font-size: 1.5em;
+}
+
+i
+{
+    margin-left: 900px;
+}
