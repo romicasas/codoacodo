@@ -1,0 +1,22 @@
+#amarillo
+{
+    height: 1200px;
+    width: 300px;
+    background-color: yellow;
+}
+
+#verde
+{
+    height: 300px;
+    width: 300px;
+    background-color: green;
+}
+
+#rojo
+{
+ height: 300px;
+ width: 300px;
+ background-color: red;
+ position: fixed;
+ left: 350px;
+}
